@@ -63,6 +63,7 @@ The application will be available at `http://localhost:5173` (frontend) and `htt
 ## Project Structure
 ```
 PlacePicker/
+├── screenshots/      # Application screenshots
 ├── src/              # Frontend source code
 ├── backend/          # Backend server code
 │   ├── data/        # Data files
@@ -71,6 +72,16 @@ PlacePicker/
 ├── public/          # Static assets
 └── package.json     # Frontend dependencies
 ```
+
+## Screenshots
+
+Here are some glimpses of the PlacePicker application:
+
+![Screenshot 1](./screenshots/screenshot1.jpg)
+*Main view showing selected places and available places.*
+
+![Screenshot 2](./screenshots/screenshot2.jpg)
+*Scrolling through the extensive list of available places.*
 
 ## Contributing
 Feel free to submit issues and enhancement requests.
