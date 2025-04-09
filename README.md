@@ -2,6 +2,17 @@
 
 PlacePicker is a modern web application that helps users discover and explore interesting places. The application provides a user-friendly interface for browsing and selecting locations, with detailed information about each place.
 
+## Screenshots
+
+Here are some glimpses of the PlacePicker application:
+
+![Screenshot 1](./screenshots/screenshot1.png)
+*Main view showing selected places and available places.*
+
+![Screenshot 2](./screenshots/screenshot2.png)
+*Scrolling through the extensive list of available places.*
+
+
 ## Technologies Used
 
 ### Frontend
@@ -72,16 +83,6 @@ PlacePicker/
 ├── public/          # Static assets
 └── package.json     # Frontend dependencies
 ```
-
-## Screenshots
-
-Here are some glimpses of the PlacePicker application:
-
-![Screenshot 1](./screenshots/screenshot1.jpg)
-*Main view showing selected places and available places.*
-
-![Screenshot 2](./screenshots/screenshot2.jpg)
-*Scrolling through the extensive list of available places.*
 
 ## Contributing
 Feel free to submit issues and enhancement requests.
